@@ -1,0 +1,10 @@
+console.log ("Código Externo");
+var nombre;
+nombre = "Daiana";
+console.log ("Mi nombre es: " + nombre);
+var apellido;
+apellido = "Baldovi";
+console.log ("Mi apellido es: " + apellido);
+var autor;
+autor = "Daiana Baldovi";
+console.log ("La página fue creada por: " + autor);
